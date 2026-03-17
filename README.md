@@ -1,1 +1,1 @@
-2wq# atividade_4_replicacao_tela
+# atividade_4_replicacao_tela
