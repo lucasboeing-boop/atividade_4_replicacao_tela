@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.flex{
+    display: flex;
+}
+.bloco{
+    background-color: rgb(129, 230, 255);
+    padding: 80px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.esquerda{
+    width: 65%;
+}
+
+#botao{
+    border-radius: 10px;
+    background-color: rgb(31, 31, 202);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding: 4px;
+    width: 280px;
+}
+#botao-menu{
+    border-radius: 10px;
+    background-color: rgb(31, 31, 202);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 32px;
+    padding: 10px auto;
+}
+.ajuda{
+    padding-left: 15%;
+}
+
+.prod-caixa{
+    border-radius: 15px;
+    background-color: white;
+    padding: 12px auto;
+}
+.prod-texto{
+    text-align: left;
+    color: blue;
+    font-weight: bold;
+}
+.final{
+    text-align: right;
+}
